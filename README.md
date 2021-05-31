@@ -2,7 +2,7 @@
 
 Bu dosyada, AdressBook uygulamasını oluşturmak ve çalıştırmak için gerekli yönergeler bulunmaktadır.
 
-Bu uygulamada JPA(Java ServerPage) formatı üzerinden basit CRUD işlemleri gerçekleştirilmiştir.
+Bu uygulamada JPA(Java Server Page) formatı üzerinden basit CRUD işlemleri gerçekleştirilmiştir.
 
 Projeyi çalıştırmak için,
 
